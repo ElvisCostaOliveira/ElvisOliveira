@@ -60,7 +60,7 @@
     
 ## 
 
- <i> FaÁa como um programador. Quando tudo est· errado e confuso, apague tudo e recomece do zero.è</i><br>
+ <i> FaÁa como um programador. Quando tudo est· errado e confuso, apague tudo e recomece do zero.è </i><br><br>
  <img src="https://github.com/ElvisCostaOliveira/ElvisOliveira/blob/main/giphy.gif" width="220">
 <img src="https://github.com/DevNylo/DevNylo/blob/output/github-contribution-grid-snake.svg" width="600"/>
 ##
