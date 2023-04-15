@@ -1,16 +1,16 @@
 <h3> Ol�, eu sou Elvis Oliveira! Seja bem vindo(a) ao meu perfil GitHub!</h3> 
 <h4></h4> 
        
-<h6> 💫 #desenvolvimentoweb, #computação, #games, e #tecnologia </h6>
+<h6>� #desenvolvimentoweb, #computação, #games, e #tecnologia </h6>
   
 ## 
 
-<h3> 🌐 Redes Sociais: <br></h3>
+<h3> Redes Sociais: <br></h3>
 
 <div>  
 
- 🤍 Se inscreva nos meus Canais do Youtube e apoie meu projeto a chegar nos 500 inscritos: <br>
- 🤍 <i> Subscribe to my Music Channel on Youtube and support my project to reach 500 subscribers: <br></i>
+ Se inscreva nos meus Canais do Youtube e apoie meu projeto a chegar nos 500 inscritos: <br>
+ <i> Subscribe to my Music Channel on Youtube and support my project to reach 500 subscribers: <br></i>
  
    <a href="https://www.instagram.com/elvisoliveira1/" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"/></a>
@@ -23,7 +23,7 @@
  
 ##
  
-<h3> 📚 Github Stats: <br></h3>
+<h3> Github Stats: <br></h3>
   
 <div>
   <a href="[https://github.com/elviscostaoliveira/](https://github.com/elviscostaoliveira/)"> 
@@ -38,7 +38,19 @@
   <img align="center" alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+  <img align="center" alt="Ally-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Ally-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Ally-Gitlab" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
+  <img align="center" alt="Ally-Jenkis" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="Ally-Jira" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
+  <img align="center" alt="Ally-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Ally-Redhat" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg">
+  <img align="center" alt="Ally-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Ally-Tomcat" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg">
+  
+  
+  
+  </div>
     
 ## 
 
