@@ -60,7 +60,7 @@
     
 ## 
 
- <i> A magical universe can be born from small ideas! ‚≠êÔ∏è</i> <br> <br>
+ <i> FaÁa como um programador. Quando tudo est· errado e confuso, apague tudo e recomece do zero.è</i> <br> <br>
  <img src="https://github.com/ElvisCostaOliveira/ElvisOliveira/blob/main/giphy.gif" width="220">
 
 ##
