@@ -1,7 +1,7 @@
 <h3> Ol·, eu sou Elvis Oliveira! Seja bem vindo(a) ao meu perfil GitHub!</h3> 
 <h4></h4> 
        
-<h6>´ #desenvolvimentoweb, #computa√ß√£o, #games, e #tecnologia </h6>
+<h6> #desenvolvimentoweb, #computaÁ„o, #games, e #tecnologia </h6>
   
 ## 
 
@@ -60,9 +60,9 @@
     
 ## 
 
- <i> FaÁa como um programador. Quando tudo est· errado e confuso, apague tudo e recomece do zero.è</i> <br> <br>
+ <i> FaÁa como um programador. Quando tudo est· errado e confuso, apague tudo e recomece do zero.è</i><br>
  <img src="https://github.com/ElvisCostaOliveira/ElvisOliveira/blob/main/giphy.gif" width="220">
-
+<img src="https://github.com/DevNylo/DevNylo/blob/output/github-contribution-grid-snake.svg" width="600"/>
 ##
   
  
