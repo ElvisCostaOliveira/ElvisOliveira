@@ -5,12 +5,18 @@
   
 ## 
 
-<h3> Redes Sociais: <br></h3>
+<h3> Sobre: <br></h3>
 
 <div>  
 
- Se inscreva nos meus Canais do Youtube e apoie meu projeto a chegar nos 500 inscritos: <br>
- <i> Subscribe to my Music Channel on Youtube and support my project to reach 500 subscribers: <br></i>
+ Tenho 15 anos de experiência na área de informática e sou atualmente desenvolvedor Java. <br>
+ Sinto-me realizado em poder criar soluções inovadoras e contribuir para projetos importantes. <br>
+ Acredito que a tecnologia é uma área em constante evolução e estou sempre me atualizando <br>
+ para acompanhar as mudanças do mercado. Como desenvolvedor Java, é preciso ter habilidades de <br>
+ resolução de problemas, pensamento lógico e criatividade para encontrar soluções eficientes, <br>
+ e adoro enfrentar esses desafios diariamente. <br>
+ 
+ <i> Redes Sociais: <br></i>
  
    <a href="https://www.instagram.com/elvisoliveira1/" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"/></a>
